@@ -4,6 +4,23 @@
 "Project: flutter_body_health_calculator_project" (tested at iPhone 15 Pro Max size, 430 x 932).
 Main font: Kanit (google_fonts).
 
+## Screenshots
+
+Captured from the running app at iPhone 15 Pro Max size (430 x 932).
+
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/01_splash.png" width="200" alt="SplashScreenUI"><br><b>SplashScreenUI</b><br>หน้าแรก</td>
+    <td align="center"><img src="screenshots/02_bmi.png" width="200" alt="BmiUI"><br><b>BmiUI</b><br>คำนวณ BMI</td>
+    <td align="center"><img src="screenshots/03_about.png" width="200" alt="AboutUI"><br><b>AboutUI</b><br>เกี่ยวกับแอป</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/04_bmr.png" width="200" alt="BmrUI top"><br><b>BmrUI</b><br>คำนวณ BMR (ด้านบน)</td>
+    <td align="center"><img src="screenshots/05_bmr_bottom.png" width="200" alt="BmrUI bottom"><br><b>BmrUI</b><br>คำนวณ BMR (เลื่อนลงล่าง)</td>
+    <td></td>
+  </tr>
+</table>
+
 ## Screens
 
 | File | Class | Screen |
